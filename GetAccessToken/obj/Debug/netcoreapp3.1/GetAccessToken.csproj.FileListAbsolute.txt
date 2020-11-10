@@ -23,3 +23,27 @@ C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken
 C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.pdb
 C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.genruntimeconfig.cache
 C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\optimpowerbackend - Web Deploy\profile.arm.json
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\bin\Debug\netcoreapp3.1\GetAccessToken.exe
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\bin\Debug\netcoreapp3.1\GetAccessToken.deps.json
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\bin\Debug\netcoreapp3.1\GetAccessToken.runtimeconfig.json
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\bin\Debug\netcoreapp3.1\GetAccessToken.runtimeconfig.dev.json
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\bin\Debug\netcoreapp3.1\GetAccessToken.dll
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\bin\Debug\netcoreapp3.1\GetAccessToken.pdb
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\bin\Debug\netcoreapp3.1\Microsoft.PowerBI.Api.dll
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.csprojAssemblyReference.cache
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.AssemblyInfoInputs.cache
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.AssemblyInfo.cs
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.csproj.CoreCompileInputs.cache
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.MvcApplicationPartsAssemblyInfo.cache
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\obj\Debug\netcoreapp3.1\staticwebassets\GetAccessToken.StaticWebAssets.Manifest.cache
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\obj\Debug\netcoreapp3.1\staticwebassets\GetAccessToken.StaticWebAssets.xml
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\obj\Debug\netcoreapp3.1\scopedcss\bundle\GetAccessToken.styles.css
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.RazorTargetAssemblyInfo.cache
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.csproj.CopyComplete
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.dll
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.pdb
+F:\Users\Diego\Documents\GitHub\PowerBIBackEnd\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.genruntimeconfig.cache
