@@ -1,0 +1,25 @@
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\bin\Debug\netcoreapp3.1\GetAccessToken.exe
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.csprojAssemblyReference.cache
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.AssemblyInfoInputs.cache
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.AssemblyInfo.cs
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.RazorTargetAssemblyInfo.cache
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\obj\Debug\netcoreapp3.1\staticwebassets\GetAccessToken.StaticWebAssets.Manifest.cache
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\obj\Debug\netcoreapp3.1\staticwebassets\GetAccessToken.StaticWebAssets.xml
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.csproj.CopyComplete
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.csproj.CoreCompileInputs.cache
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\bin\Debug\netcoreapp3.1\GetAccessToken.deps.json
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\bin\Debug\netcoreapp3.1\GetAccessToken.runtimeconfig.json
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\bin\Debug\netcoreapp3.1\GetAccessToken.runtimeconfig.dev.json
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\bin\Debug\netcoreapp3.1\GetAccessToken.dll
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\bin\Debug\netcoreapp3.1\GetAccessToken.pdb
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\bin\Debug\netcoreapp3.1\Microsoft.PowerBI.Api.dll
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.dll
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.pdb
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\obj\Debug\netcoreapp3.1\GetAccessToken.genruntimeconfig.cache
+C:\Users\temp\Documents\OptimPower\PowerBI_BackEnd\GetAccessToken\GetAccessToken\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\optimpowerbackend - Web Deploy\profile.arm.json

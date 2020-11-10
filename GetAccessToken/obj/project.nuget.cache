@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3f1M5dQaW0y2s/BiT7HEV88dr8AoOXOUJwrF46iGN0noOTodaLnnTBLpzDCKQiGBixImVITv8Q0s3gjwp55+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\temp\\Documents\\OptimPower\\PowerBI_BackEnd\\GetAccessToken\\GetAccessToken\\GetAccessToken.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\H242658\\.nuget\\packages\\microsoft.powerbi.api\\3.16.0\\microsoft.powerbi.api.3.16.0.nupkg.sha512",
+    "C:\\Users\\H242658\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\microsoft.rest.clientruntime.2.3.21.nupkg.sha512",
+    "C:\\Users\\H242658\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\H242658\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
