@@ -62,7 +62,7 @@ namespace GetAccessToken.Controllers
             {
 
                 var workspaceId = Guid.Parse("11e61390-b4d0-47d5-865f-6270fb51a5e0");
-                var reportId = Guid.Parse("6b42b12f-41c6-48c3-b1b1-64be798d2fdd");
+                var reportId = Guid.Parse("e6d3fc3c-dce7-4f84-91a9-1ea6378aafd0");
 
                 var report = await client.Reports.GetReportInGroupAsync(workspaceId, reportId);
 
